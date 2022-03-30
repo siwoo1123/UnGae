@@ -4,7 +4,3 @@ git commit -m "two commit"
 git branch -M main
 #git remote add origin https://github.com/siwoo1123/UnGae.git
 git push -u origin main
-
-git remote add origin https://github.com/siwoo1123/UnGae.git
-git branch -M main
-git push -u origin main
