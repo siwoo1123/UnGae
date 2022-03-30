@@ -28,7 +28,7 @@ lalala.innerHTML = `
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">자주 묻는 질문</a>
+                <a class="nav-link" href="/QnA.html">자주 묻는 질문</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -42,7 +42,7 @@ lalala.innerHTML = `
                 </ul>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="/QnA.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   바로가기
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
