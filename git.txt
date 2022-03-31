@@ -1,4 +1,4 @@
-git init
+#git init
 git add .
 git commit -m "two commit"
 git branch -M main
