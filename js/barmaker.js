@@ -49,6 +49,7 @@ lalala.innerHTML = `
                   <li><a class="dropdown-item" href="https://web.roblox.com/games/9130252517/3D#!/game-instances" target="_blank">게임으로 바로가기</a></li>
                   <li><a class="dropdown-item" href="https://web.roblox.com/groups/13789649/KOREA#!/about" target="_blank">그룹으로 바로가기</a></li>
                   <li><a class="dropdown-item" href="https://www.youtube.com/user/parkjh1658" target="_blank">누누tv로 이동하기</a></li>
+                  <li><a class="dropdown-item" href="https://discord.gg/X5EcGQKJ" target="_blank">디스코드로 이동하기</a></li>
                 </ul>
               </li>
             </ul>
