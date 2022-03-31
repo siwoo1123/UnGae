@@ -56,3 +56,9 @@ lalala.innerHTML = `
         </div>
     </nav>
 `
+function BUS(number, comp, cont ) {
+  document.querySelector(".aboutbus").innerHTML = `<h1><b>${number}번 버스</b></h1>
+  <img src="/img/${number}.png" class="busimg" alt="${number}번 버스" class="img-fluid">
+  <p>${number}번 버스는 ${comp}에서 운영하는 노선으로, ${cont}</p>
+  `
+}
