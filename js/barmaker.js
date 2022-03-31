@@ -38,7 +38,7 @@ lalala.innerHTML = `
                   <li><a class="dropdown-item" href="/bus/9402.html">직행좌석 9402</a></li>
                   <li><a class="dropdown-item" href="/bus/P1143.html">프리미엄 P1143</a></li>
                   <li><a class="dropdown-item" href="/bus/4444.html">심야 4444</a></li>
-                  <li><a class="dropdown-item" href="/bus/1137.html">지선(운게시 미경유 노선) 1137</a></li>
+                  <li><a class="dropdown-item" href="/bus/02B.html">순환 02B</a></li>
                 </ul>
               </li>
               <li class="nav-item dropdown">
